@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace HelloWorld
 {
     class Program
@@ -12,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World !");
+            Console.WriteLine("Hello You !");
             Console.ReadLine();
         } // end Main
     } // end class Program
